@@ -1,6 +1,6 @@
 # Set the folder path containing audio and TextGrid files
 folder$ = "C:\work\Corpus\EDAIC\wavNscript\"
-#folder$ = "C:\Users\nomar\OneDrive\Desktop\"
+
 #report_file$ = (folder$ + "interval_pitch_report.csv")
 
 # Create the CSV header
